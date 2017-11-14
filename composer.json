@@ -1,5 +1,5 @@
 {
-	"name": "Kole/Composer Test",
+	"name": "kole/comptest",
 	"description": "Testing a package",
 	"autoload": {
        "psr-4": {
